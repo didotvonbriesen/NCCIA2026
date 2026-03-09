@@ -351,40 +351,6 @@ function renderSessionSections(page) {
         <p style="text-align:center;"><em>- Unknown</em></p>
         <hr />
 
-        <h2 id="sample-lopez" style="font-family:'Manrope','Segoe UI',sans-serif; font-size:1rem; color:#1f4fa3;">Lopez, Aria K.</h2>
-        <p>
-          I understand that what I put here is publicly available on the web and I will not
-          post anything I do not want publicly visible. <em>- AKL 03/09/26</em>
-        </p>
-        <p style="text-align:center; font-size:2.2rem;"><strong>Aria K. "Ari" Lopez ~ Agile Llama</strong></p>
-        <figure style="text-align:center; margin:0.8rem auto;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Alpaca_in_Higashiyama_Zoo_-_1.jpg/330px-Alpaca_in_Higashiyama_Zoo_-_1.jpg" alt="Sample intro photo for alpaca example" style="max-width:280px; width:100%; height:auto; border-radius:10px;" />
-          <figcaption><em>Testing a new workflow setup, 2026</em></figcaption>
-        </figure>
-        <p>
-          Hello everyone. I enjoy combining creativity with organization, especially when
-          projects involve both people and technology. This class is helping me build a
-          stronger foundation in practical computer skills for school and work.
-        </p>
-        <ul>
-          <li><strong>Personal Background:</strong> I grew up in Charlotte and spend most weekends reading, hiking, or visiting local coffee shops.</li>
-          <li><strong>Professional Background:</strong> I have worked in hospitality and front desk support, where multitasking and communication matter daily.</li>
-          <li><strong>Academic Background:</strong> I am currently pursuing transfer credits in business and technology.</li>
-          <li><strong>Primary Computer:</strong> Dell laptop, Windows 11, laptop, primary workspace is my home desk.</li>
-          <li><strong>Courses I'm Taking, & Why:</strong>
-            <ul>
-              <li><strong>CIS110 - Introduction to Computers:</strong> To improve technical confidence and efficiency.</li>
-              <li><strong>BUS110 - Introduction to Business:</strong> To strengthen core concepts for my degree plan.</li>
-              <li><strong>COM110 - Introduction to Communication:</strong> To become clearer and more effective in speaking and writing.</li>
-            </ul>
-          </li>
-          <li><strong>Funny/Interesting Item to Remember Me by:</strong> I label every charger I own so I never lose them.</li>
-          <li><strong>I'd Also Like to Share:</strong> I am interested in learning how data is used to improve decisions.</li>
-        </ul>
-        <p style="text-align:center;">"Progress, not perfection."</p>
-        <p style="text-align:center;"><em>- Unknown</em></p>
-        <hr />
-
         <h2 id="sample-garcia" style="font-family:'Manrope','Segoe UI',sans-serif; font-size:1rem; color:#1f4fa3;">Garcia, Mateo J.</h2>
         <p>
           I understand that what I put here is publicly available on the web and I will not
@@ -424,6 +390,40 @@ function renderSessionSections(page) {
           <li><strong>I'd Also Like to Share:</strong> I am excited to learn more about data formats and retrieval.</li>
         </ul>
         <p style="text-align:center;">"Stay curious and keep building."</p>
+        <p style="text-align:center;"><em>- Unknown</em></p>
+        <hr />
+
+        <h2 id="sample-lopez" style="font-family:'Manrope','Segoe UI',sans-serif; font-size:1rem; color:#1f4fa3;">Lopez, Aria K.</h2>
+        <p>
+          I understand that what I put here is publicly available on the web and I will not
+          post anything I do not want publicly visible. <em>- AKL 03/09/26</em>
+        </p>
+        <p style="text-align:center; font-size:2.2rem;"><strong>Aria K. "Ari" Lopez ~ Agile Llama</strong></p>
+        <figure style="text-align:center; margin:0.8rem auto;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Alpaca_in_Higashiyama_Zoo_-_1.jpg/330px-Alpaca_in_Higashiyama_Zoo_-_1.jpg" alt="Sample intro photo for alpaca example" style="max-width:280px; width:100%; height:auto; border-radius:10px;" />
+          <figcaption><em>Testing a new workflow setup, 2026</em></figcaption>
+        </figure>
+        <p>
+          Hello everyone. I enjoy combining creativity with organization, especially when
+          projects involve both people and technology. This class is helping me build a
+          stronger foundation in practical computer skills for school and work.
+        </p>
+        <ul>
+          <li><strong>Personal Background:</strong> I grew up in Charlotte and spend most weekends reading, hiking, or visiting local coffee shops.</li>
+          <li><strong>Professional Background:</strong> I have worked in hospitality and front desk support, where multitasking and communication matter daily.</li>
+          <li><strong>Academic Background:</strong> I am currently pursuing transfer credits in business and technology.</li>
+          <li><strong>Primary Computer:</strong> Dell laptop, Windows 11, laptop, primary workspace is my home desk.</li>
+          <li><strong>Courses I'm Taking, & Why:</strong>
+            <ul>
+              <li><strong>CIS110 - Introduction to Computers:</strong> To improve technical confidence and efficiency.</li>
+              <li><strong>BUS110 - Introduction to Business:</strong> To strengthen core concepts for my degree plan.</li>
+              <li><strong>COM110 - Introduction to Communication:</strong> To become clearer and more effective in speaking and writing.</li>
+            </ul>
+          </li>
+          <li><strong>Funny/Interesting Item to Remember Me by:</strong> I label every charger I own so I never lose them.</li>
+          <li><strong>I'd Also Like to Share:</strong> I am interested in learning how data is used to improve decisions.</li>
+        </ul>
+        <p style="text-align:center;">"Progress, not perfection."</p>
         <p style="text-align:center;"><em>- Unknown</em></p>
         <hr />
 
